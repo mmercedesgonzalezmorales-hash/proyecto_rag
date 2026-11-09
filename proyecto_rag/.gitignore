@@ -1,0 +1,6 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# chroma_db/ se puede subir al repo para que Streamlit Cloud arranque sin reindexar
